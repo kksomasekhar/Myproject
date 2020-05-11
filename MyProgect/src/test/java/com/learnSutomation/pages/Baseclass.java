@@ -39,8 +39,10 @@ public class Baseclass {
 		config = new ConfigDataprovider();
 
 		ExtentHtmlReporter extent = new ExtentHtmlReporter(
-				new File("/home/somasekhar/Documents/workPlace/MyProgect/Reports/FreeCRM_"
+				new File("/home/somasekhar/Desktop/Myproject/MyProgect/Reports/FreeCRM_"
 						+ HelperCalss.getTimeStamp() + ".html"));
+		
+		
 
 		report = new ExtentReports();
 		report.attachReporter(extent);

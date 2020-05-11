@@ -12,7 +12,7 @@ public class ConfigDataprovider {
 	
 	public ConfigDataprovider() throws IOException {
 		
-		File src = new File("/home/somasekhar/Documents/workPlace/MyProgect/config/Confi.properties");
+		File src = new File("/home/somasekhar/Desktop/Myproject/MyProgect/config/Confi.properties");
 		
 		try {
 			FileInputStream fis = new FileInputStream(src);

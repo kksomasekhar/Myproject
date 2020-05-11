@@ -16,7 +16,7 @@ public class ExcelDataPovider {
 		
 	
 		
-		File src = new File("/home/somasekhar/Documents/workPlace/MyProgect/TestData/data.xlsx");
+		File src = new File("/home/somasekhar/Desktop/Myproject/MyProgect/TestData/data.xlsx");
 		
 		try {
 			FileInputStream fis = new FileInputStream(src);

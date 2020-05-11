@@ -17,12 +17,12 @@
       <![CDATA[Test complited >>> Reports genarated]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24767" started-at="2020-05-02T13:55:10Z" finished-at="2020-05-02T13:55:35Z">
+  <suite name="Default suite" duration-ms="14204" started-at="2020-05-11T11:42:01Z" finished-at="2020-05-11T11:42:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24767" started-at="2020-05-02T13:55:10Z" finished-at="2020-05-02T13:55:35Z">
+    <test name="Default test" duration-ms="14204" started-at="2020-05-11T11:42:01Z" finished-at="2020-05-11T11:42:15Z">
       <class name="com.learnSutomation.testcases.LoginTestCrm">
-        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@27efef64]" name="setUpSuite" is-config="true" duration-ms="414" started-at="2020-05-02T19:25:10Z" finished-at="2020-05-02T19:25:10Z">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@7a30d1e6]" name="setUpSuite" is-config="true" duration-ms="651" started-at="2020-05-11T17:12:00Z" finished-at="2020-05-11T17:12:01Z">
           <reporter-output>
             <line>
               <![CDATA[Setting up reports and test is getting ready]]>
@@ -32,22 +32,22 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUpSuite -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@27efef64]" name="setUp" is-config="true" duration-ms="4079" started-at="2020-05-02T19:25:10Z" finished-at="2020-05-02T19:25:14Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@7a30d1e6]" name="setUp" is-config="true" duration-ms="3391" started-at="2020-05-11T17:12:01Z" finished-at="2020-05-11T17:12:04Z">
           <reporter-output>
             <line>
               <![CDATA[Settigs done test can be started]]>
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginApp()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@27efef64]" name="loginApp" duration-ms="20360" started-at="2020-05-02T19:25:14Z" finished-at="2020-05-02T19:25:35Z">
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@7a30d1e6]" name="loginApp" duration-ms="10185" started-at="2020-05-11T17:12:04Z" finished-at="2020-05-11T17:12:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApp -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@27efef64]" name="tearDownMethod" is-config="true" duration-ms="244" started-at="2020-05-02T19:25:35Z" finished-at="2020-05-02T19:25:35Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@7a30d1e6]" name="tearDownMethod" is-config="true" duration-ms="485" started-at="2020-05-11T17:12:15Z" finished-at="2020-05-11T17:12:15Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginApp status=SUCCESS method=LoginTestCrm.loginApp()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@27efef64] output={null}]]]>
+                <![CDATA[[TestResult name=loginApp status=SUCCESS method=LoginTestCrm.loginApp()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@7a30d1e6] output={null}]]]>
               </value>
             </param>
           </params>
@@ -60,7 +60,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@27efef64]" name="tearDown" is-config="true" duration-ms="70" started-at="2020-05-02T19:25:35Z" finished-at="2020-05-02T19:25:35Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learnSutomation.testcases.LoginTestCrm@7a30d1e6]" name="tearDown" is-config="true" duration-ms="127" started-at="2020-05-11T17:12:15Z" finished-at="2020-05-11T17:12:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
